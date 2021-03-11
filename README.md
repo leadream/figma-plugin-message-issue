@@ -17,7 +17,7 @@ your plugin.
 
 To build:
 
-    $ npm install
-    $ npx webpack
+    $ yarn install
+    $ yarn dev
 
 [webpack]: ../webpack/
